@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "vejjux",
+    "longName": "LitText",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "LitText",
+    "uuid": "19dfc2a4-f026-4a29-9f1b-fb3297b796a3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
